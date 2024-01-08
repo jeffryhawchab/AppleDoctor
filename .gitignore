@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+**/Lib/site-packages/
+**/lib/site-packages/
+
+# IDE
+.idea/
+.vscode/
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+
+# Temporary files
+*.swp
+*~
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+

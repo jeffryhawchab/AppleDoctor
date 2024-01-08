@@ -1,0 +1,7 @@
+{
+  "name": "AppleDoctor",
+  "short_name": "AppleDr",
+  "description": "Experience the fusion of technology and nature at AppleDoctor.",
+  "start_url": ".",
+  "display": "standalone"
+}
