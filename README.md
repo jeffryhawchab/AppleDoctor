@@ -17,6 +17,10 @@ navigate to localhost:3000
 
 # start the flask app
 
+env\scripts\activate for windows
+source myenv/bin/activate for linux 
+source myenv/bin/activate for mac
+
 pip install -r requirements.txt
 
 cd env
