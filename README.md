@@ -29,3 +29,5 @@ pip install -r requirements.txt
 cd env
 
 python app.py 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
