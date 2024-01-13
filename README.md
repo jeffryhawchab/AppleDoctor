@@ -32,6 +32,5 @@ python app.py
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  #AppleDoctor
 </p>
 
